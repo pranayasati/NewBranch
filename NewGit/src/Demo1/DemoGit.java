@@ -13,6 +13,12 @@ public class DemoGit {
 	public void m2(){
 		System.out.println("Hello...");
 	}
+	public void m3(){
+		System.out.println("Hello...");
+	}
+	public void m4(){
+		System.out.println("Hello...");
+	}
 
 
 }
